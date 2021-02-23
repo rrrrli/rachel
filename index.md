@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/rrrrli/rachel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img style="float: right;" src="./mypic.png" width="160" height="160" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! My name is Rachel Li and I am a 2nd year Psychology major at William & Mary. My psychology research interests include child emotion regulation, developmental psychopathology, emotion socialization, and the effects of immigration on child and adolescent mental health. I am also working towards a minor in Data Science. I am passionate about exploring the incorporation of data science techniques in psychological research. 
 
-### Markdown
+I am a bilingual learner and researcher seeking research and internship opportunities in both English and Chinese environments! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Explore these pages**:
 
-```markdown
-Syntax highlighted code block
+[Curriculum Vitae](https://github.com/rrrrli/aboutMe/blob/main/cv.md)
 
-# Header 1
-## Header 2
-### Header 3
+[My Coursework - Psychology](https://github.com/rrrrli/aboutMe/blob/main/psych_courses.md)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rrrrli/rachel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[My Coursework - Data Science](https://github.com/rrrrli/aboutMe/blob/main/data_courses.md)
