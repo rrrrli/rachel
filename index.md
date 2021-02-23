@@ -13,3 +13,5 @@ I am a bilingual learner and researcher seeking research and internship opportun
 [My Coursework - Psychology](https://github.com/rrrrli/aboutMe/blob/main/psych_courses.md)
 
 [My Coursework - Data Science](https://github.com/rrrrli/aboutMe/blob/main/data_courses.md)
+
+[Photography Works] (https://github.com/rrrrli/rachel/blob/main/photography)
